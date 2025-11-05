@@ -1,0 +1,43 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Image editor temporary files
+*.psd~
+*.ai~
+*.indd~
+
+# Backup files
+*.bak
+*.backup
+
+# Compressed archives (if you're working with them temporarily)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# System folders
+.fuse_hidden*
+$RECYCLE.BIN/
+
+# IDE and editor files (if you're adding descriptions or organizing)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: Exclude specific folders if you have work-in-progress
+# wip/
+# drafts/
